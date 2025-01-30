@@ -1,3 +1,6 @@
+## this is first file 
+#this will be written in c++
+
 ## To run this 
 ```
 root [0] .L src/focal_sim_digitizer.cxx
@@ -12,4 +15,3 @@ just checking if 00000011
 root [7]
 
 ```
-
